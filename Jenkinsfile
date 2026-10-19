@@ -3,7 +3,7 @@ pipeline {
 
     environment {
         GIT_REPOSITORY_URL = 'https://github.com/ramyakunchanapalli2003-glitch/docker_jenkins_demo.git'
-        DOCKER_IMAGE_NAME = 'newdelthis/docker_jenkins_java'
+        DOCKER_IMAGE_NAME = 'ramyakunchanapalli2003-glitch/docker_jenkins_demo'
         IMAGE_TAG = '1.0'
     }
 
